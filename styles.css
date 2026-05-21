@@ -470,6 +470,15 @@ img {
 .project-mock.green  .mock-bar,
 .project-mock.green  .mock-block { background-color: #4ec994; }
 
+.project-mock.orange .mock-bar,
+.project-mock.orange .mock-block { background-color: #e8893a; }
+
+.project-mock.purple .mock-bar,
+.project-mock.purple .mock-block { background-color: #a47bf0; }
+
+.project-mock.teal   .mock-bar,
+.project-mock.teal   .mock-block { background-color: #3ec0c4; }
+
 .project-info {
     padding: 3rem;
     display: flex;
